@@ -1,2 +1,1 @@
-- Link to Asana: 
-- [ADR](https://github.com/burgerwerke/architecture): 
+Asana: 
