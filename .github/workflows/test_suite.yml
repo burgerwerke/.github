@@ -1,0 +1,14 @@
+name: "Test suite"
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: No tests needed
+        run: echo "No tests needed for this repository - we need this file to fit the organization's branch protection rules"
